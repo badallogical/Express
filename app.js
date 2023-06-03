@@ -3,8 +3,6 @@ const express = require("express")
 // server
 const app = express()
 
-
-
 // path to resource
 var path = 'D:/Work/Backend/Node/Express/public/'
 
